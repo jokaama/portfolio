@@ -4,7 +4,10 @@
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
+
 /* =======================================================
 *
 * 	Template Style 
@@ -1317,4 +1320,17 @@ input[type="text"] {
   bottom: 20px;
   font-size: 1.2rem;
 }
+
+.text-title {
+  color: #BD9391;
+  font-weight: bold;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.text-techno {
+  color: #58A4B0;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.2rem;
+}
+
 # sourceMappingURL=style.css.map

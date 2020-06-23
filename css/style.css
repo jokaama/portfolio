@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 600px;
+  height: 360px;
   width: 100%;
 }
 #fh5co-header .overlay,
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc {
   display: table-cell;
   vertical-align: middle;
-  height: 600px;
+  height: 400px;
 }
 #fh5co-header .display-tc h1, #fh5co-header .display-tc h2, #fh5co-header .display-tc h3,
 .fh5co-cover .display-tc h1,
@@ -348,6 +348,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 60%;
   display: inline-block;
   color: rgba(0, 0, 0, 0.5);
+  
 }
 
 .fh5co-social-icons {
@@ -1330,7 +1331,7 @@ input[type="text"] {
 .text-techno {
   color: #58A4B0;
   font-family: 'Bebas Neue', cursive;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .subtitle-app {

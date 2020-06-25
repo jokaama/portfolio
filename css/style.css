@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(189, 147, 145, 0.57);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #BD9391;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: #BD9391 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #BD9391;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #BD9391;
 }
 
 .fh5co-heading {
@@ -538,7 +538,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #BD9391;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1340,8 +1340,18 @@ input[type="text"] {
   color: #3E6680;
 }
 
-.bg-maquettes {
-  
+#oswald-title {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+/* #oswald-text {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+} */
+
+#lakky-title {
+  font-family: 'Lakki Reddy', cursive;
+
 }
 
 # sourceMappingURL=style.css.map

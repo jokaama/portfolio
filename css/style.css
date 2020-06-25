@@ -1336,6 +1336,11 @@ input[type="text"] {
   font-size: 1.3rem;
 }
 
+.bg-pink {
+  background-color: #ECE1E16E;
+  margin-top: 30px;
+}
+
 .subtitle-app {
   color: #3E6680;
 }
